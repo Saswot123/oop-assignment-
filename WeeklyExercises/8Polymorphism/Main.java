@@ -4,9 +4,9 @@ public class Main {
         Firm firm = new Firm();
 
         // Add employees with their classifications
-        firm.addEmployee(new Employee("kaushal", "Manager"));
-        firm.addEmployee(new Employee("umanga", "Assistant"));
-        firm.addEmployee(new Employee("himal", "Intern"));
+        firm.addEmployee(new Employee("saswot", "Manager"));
+        firm.addEmployee(new Employee("parsen", "Assistant"));
+        firm.addEmployee(new Employee("nowa", "Intern"));
 
         // Show employees and their vacation options
         firm.showEmployees();
